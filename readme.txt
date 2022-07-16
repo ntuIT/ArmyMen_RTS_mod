@@ -1,7 +1,7 @@
 The 3DO Company
 Army Men(R): RTS
 March 2002
-Version mod unlimit units
+Version mod 20 controls
 
  
 Thank you for purchasing the Army Men: RTS game.  We recommend that you read this file to get the most up-to-date information about installing, running, and maximizing performance of the Army Men: RTS game. This document contains information you might find useful, and we think it will help you to get as much enjoyment out of this game as possible.
