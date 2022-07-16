@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-1"?><SUF70UninstallData>
-<DataFilePath>E:\Program Files (x86)\3DO\Army Men RTS\uninstall\uninstall.dat</DataFilePath>
+<DataFilePath>C:\Program Files (x86)\3DO\Army Men RTS\uninstall\uninstall.dat</DataFilePath>
 <CPRegKey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Army Men RTS1.0.1202.0</CPRegKey>
-<EXELocation>E:\Program Files (x86)\3DO\Army Men RTS\uninstall.exe</EXELocation>
+<EXELocation>C:\Program Files (x86)\3DO\Army Men RTS\uninstall.exe</EXELocation>
 <AppShortcutFolderPath>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Army Men RTS</AppShortcutFolderPath>
 <UninstallReverseOrder>1</UninstallReverseOrder>
 <UninstallFiles>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\base.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\base.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -14,7 +14,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\bc_p\group.cfg</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\bc_p\group.cfg</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -22,7 +22,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\bc_p\T01.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\bc_p\T01.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -30,7 +30,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\bc_p\T01.x-e</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\bc_p\T01.x-e</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -38,7 +38,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\bc_p\T02.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\bc_p\T02.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -46,7 +46,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\bc_p\T02.x-e</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\bc_p\T02.x-e</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -54,7 +54,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\bc_p\T03.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\bc_p\T03.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -62,7 +62,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\bc_p\T03.x-e</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\bc_p\T03.x-e</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -70,7 +70,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\gb\attic.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\gb\attic.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -78,7 +78,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\gb\basement.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\gb\basement.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -86,7 +86,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\gb\bathroom.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\gb\bathroom.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -94,7 +94,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\gb\flooded.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\gb\flooded.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -102,7 +102,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\gb\garden.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\gb\garden.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -110,7 +110,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\gb\group.cfg</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\gb\group.cfg</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -118,7 +118,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\gb\sandbox.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\gb\sandbox.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -126,7 +126,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\gb\tricycle.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\gb\tricycle.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -134,7 +134,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\gb\waterway.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\gb\waterway.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -142,7 +142,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\2bench.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\2bench.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -150,7 +150,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\2dumdums.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\2dumdums.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -158,7 +158,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\2eight.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\2eight.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -166,7 +166,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\4crazed.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\4crazed.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -174,7 +174,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\4hose.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\4hose.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -182,7 +182,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\4koth.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\4koth.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -190,7 +190,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\4sandbox.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\4sandbox.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -198,7 +198,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\6sixway.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\6sixway.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -206,7 +206,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\8ally.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\8ally.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -214,7 +214,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\8train.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\8train.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -222,7 +222,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F 2vs2 SBS.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F 2vs2 SBS.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -230,7 +230,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F 2vs2 That Sinkin Feeling.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F 2vs2 That Sinkin Feeling.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -238,7 +238,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F A Hose Too Far.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F A Hose Too Far.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -246,7 +246,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F Doubles Speed Boost.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F Doubles Speed Boost.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -254,7 +254,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F Grunt Wars.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F Grunt Wars.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -262,7 +262,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F King of the Hill Power Rush.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F King of the Hill Power Rush.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -270,7 +270,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F Sniper Wars.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F Sniper Wars.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -278,7 +278,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F Take the 8-Train Rush.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F Take the 8-Train Rush.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -286,7 +286,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F Vikki's Twisted Doubles.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F Vikki's Twisted Doubles.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -294,7 +294,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F-Chido69's Maximum Rush.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F-Chido69's Maximum Rush.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -302,7 +302,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F-SnipeR's Maximum Rush.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F-SnipeR's Maximum Rush.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -310,7 +310,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\Sarge Doubles.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\Sarge Doubles.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -318,7 +318,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\SargeSargeFrenzy.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\SargeSargeFrenzy.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -326,7 +326,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\StormeR's Doubles Rush.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\StormeR's Doubles Rush.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -334,7 +334,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\Super Grunts.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\Super Grunts.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -342,7 +342,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\shells\briefing.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\shells\briefing.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -350,7 +350,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\shells\credits.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\shells\credits.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -358,7 +358,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\shells\group.cfg</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\shells\group.cfg</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -366,7 +366,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\shells\main.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\shells\main.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -374,7 +374,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\group.cfg</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\group.cfg</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -382,7 +382,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S01.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S01.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -390,7 +390,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S01.x-e</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S01.x-e</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -398,7 +398,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S02.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S02.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -406,7 +406,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S02.x-e</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S02.x-e</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -414,7 +414,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S03.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S03.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -422,7 +422,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S03.x-e</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S03.x-e</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -430,7 +430,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S04.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S04.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -438,7 +438,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S04.x-e</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S04.x-e</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -446,7 +446,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S05.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S05.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -454,7 +454,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S05.x-e</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S05.x-e</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -462,7 +462,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S06.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S06.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -470,7 +470,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S06.x-e</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S06.x-e</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -478,7 +478,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S07.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S07.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -486,7 +486,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S07.x-e</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S07.x-e</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -494,7 +494,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S08.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S08.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -502,7 +502,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S08.x-e</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S08.x-e</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -510,7 +510,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S09.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S09.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -518,7 +518,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S09.x-e</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S09.x-e</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -526,7 +526,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S10.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S10.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -534,7 +534,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S10.x-e</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S10.x-e</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -542,7 +542,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S11.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S11.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -550,7 +550,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S11.x-e</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S11.x-e</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -558,7 +558,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S12.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S12.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -566,7 +566,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S12.x-e</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S12.x-e</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -574,7 +574,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S13.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S13.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -582,7 +582,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S13.x-e</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S13.x-e</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -590,7 +590,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S14.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S14.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -598,7 +598,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S14.x-e</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S14.x-e</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -606,7 +606,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S15.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S15.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -614,7 +614,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\story\S15.x-e</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\story\S15.x-e</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -622,7 +622,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\mods\persona\default.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\mods\persona\default.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -630,7 +630,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\mods\persona\gb.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\mods\persona\gb.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -638,7 +638,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\mods\ruleset\koth.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\mods\ruleset\koth.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -646,7 +646,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\mods\ruleset\protect.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\mods\ruleset\protect.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -654,7 +654,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\mods\ruleset\sarge.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\mods\ruleset\sarge.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -662,7 +662,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\sides\army.cfg</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\sides\army.cfg</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -670,7 +670,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\sides\insect.cfg</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\sides\insect.cfg</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -678,7 +678,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\user\data.cfg</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\user\data.cfg</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -686,7 +686,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\worlds\attic.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\worlds\attic.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -694,7 +694,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\worlds\basement.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\worlds\basement.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -702,7 +702,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\worlds\bathroom.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\worlds\bathroom.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -710,7 +710,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\worlds\bedroom.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\worlds\bedroom.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -718,7 +718,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\worlds\kitchen.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\worlds\kitchen.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -726,7 +726,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\worlds\livingrm.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\worlds\livingrm.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -734,7 +734,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\worlds\sandbox.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\worlds\sandbox.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -742,7 +742,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\worlds\sandbox.x-e</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\worlds\sandbox.x-e</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -750,7 +750,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\worlds\shell.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\worlds\shell.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -758,7 +758,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\worlds\yard.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\worlds\yard.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -766,7 +766,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\amrts.exe</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\amrts.exe</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -774,7 +774,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\base.x-e</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\base.x-e</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -782,7 +782,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\binkw32.dll</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\binkw32.dll</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -790,7 +790,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\drvmgt.dll</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\drvmgt.dll</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -798,7 +798,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\mss32.dll</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\mss32.dll</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -806,7 +806,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\readme.txt</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\readme.txt</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -814,7 +814,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\secdrv.sys</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\secdrv.sys</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -822,7 +822,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\settings.cfg</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\settings.cfg</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -830,7 +830,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\setup.bat</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\setup.bat</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -838,7 +838,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\Setupreg.exe</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\Setupreg.exe</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -846,7 +846,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\client\p\ingame.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\client\p\ingame.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -854,7 +854,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\client\p\shell.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\client\p\shell.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -862,7 +862,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\manual.pdf</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\manual.pdf</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -870,7 +870,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\library\dbg\dbghelp.dll</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\library\dbg\dbghelp.dll</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -878,7 +878,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\library\dbg\msdbi.dll</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\library\dbg\msdbi.dll</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -886,7 +886,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\library\engine\detail.cfg</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\library\engine\detail.cfg</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -894,7 +894,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\library\engine\startup.cfg</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\library\engine\startup.cfg</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -902,7 +902,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\library\engine\video.cfg</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\library\engine\video.cfg</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -910,7 +910,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\library\language\english.dat</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\library\language\english.dat</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -918,7 +918,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\library\language\language.cfg</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\library\language\language.cfg</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -926,7 +926,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\library\mss\mp3dec.asi</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\library\mss\mp3dec.asi</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -934,7 +934,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\extras\AMRTS Icons.icl</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\extras\AMRTS Icons.icl</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -942,7 +942,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\extras\setupico.dll</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\extras\setupico.dll</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -950,7 +950,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\extras\Army Men RTS Forums.URL</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\extras\Army Men RTS Forums.URL</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -958,7 +958,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F Holiday Doubles.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F Holiday Doubles.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -966,7 +966,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\worlds\exf_holiday.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\worlds\exf_holiday.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -974,7 +974,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\worlds\exf_sprawl.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\worlds\exf_sprawl.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -982,7 +982,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F Vulture Island.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F Vulture Island.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -990,7 +990,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F 8 Farms.x</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp\E]x[F 8 Farms.x</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -998,7 +998,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\extras\Great Battles Unlocker.exe</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\extras\Great Battles Unlocker.exe</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -1006,7 +1006,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\amrts.log</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\amrts.log</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -1014,7 +1014,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>C:\Users\Asuck\AppData\Roaming\AMU\AMU Scheduler.exe</Filename>
+<Filename>C:\Users\Administrator\AppData\Roaming\AMU\AMU Scheduler.exe</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -1022,7 +1022,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>C:\Users\Asuck\AppData\Roaming\AMU\ArmyMenUpdater.dat</Filename>
+<Filename>C:\Users\Administrator\AppData\Roaming\AMU\ArmyMenUpdater.dat</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -1030,7 +1030,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>C:\Users\Asuck\AppData\Roaming\AMU\ArmyMenUpdater.exe</Filename>
+<Filename>C:\Users\Administrator\AppData\Roaming\AMU\ArmyMenUpdater.exe</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -1038,7 +1038,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>C:\Users\Asuck\AppData\Roaming\AMU\version.ini</Filename>
+<Filename>C:\Users\Administrator\AppData\Roaming\AMU\version.ini</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -1046,7 +1046,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>C:\Users\Asuck\AppData\Roaming\AMU\AMU Log.txt</Filename>
+<Filename>C:\Users\Administrator\AppData\Roaming\AMU\AMU Log.txt</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -1054,7 +1054,7 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\extras\HQ Skinner.exe</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\extras\HQ Skinner.exe</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -1062,7 +1062,15 @@
 <BackupFile/>
 </File>
 <File>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\extras\ModRemover.exe</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\extras\ModRemover.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Users\Administrator\AppData\Roaming\AMU\Scheduled.txt</Filename>
 <DecrementUsageCount>0</DecrementUsageCount>
 <UnregisterCOM>0</UnregisterCOM>
 <UnregisterFont>0</UnregisterFont>
@@ -1070,42 +1078,57 @@
 <BackupFile/>
 </File>
 </UninstallFiles>
-<UninstallSupportFiles>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\uninstall\IRIMG1.JPG</Filename>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\uninstall\IRIMG2.JPG</Filename>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\uninstall\IRIMG3.JPG</Filename>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\uninstall\IRIMG4.JPG</Filename>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\uninstall\IRIMG5.JPG</Filename>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\uninstall\IRIMG6.JPG</Filename>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\uninstall\IRIMG7.JPG</Filename>
-<Filename>E:\Program Files (x86)\3DO\Army Men RTS\uninstall\IRIMG8.JPG</Filename>
-</UninstallSupportFiles>
 <UninstallShortcuts>
+<Filename>C:\Users\Public\Desktop\Army Men RTS.lnk</Filename>
+<Filename>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Army Men RTS\Army Men RTS.lnk</Filename>
+<Filename>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Army Men RTS\Army Men RTS Manual.lnk</Filename>
+<Filename>C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\\Army Men RTS\Extras\\Army Men RTS Forums.lnk</Filename>
+<Filename>C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\\Army Men RTS\Extras\\Great Battles Unlocker.lnk</Filename>
+<Filename>C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\\Army Men RTS\Map Updater\\AMU Scheduler.lnk</Filename>
+<Filename>C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\\Army Men RTS\Map Updater\\AMU.lnk</Filename>
+<Filename>C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\\Army Men RTS\Extras\\Army Men RTS HQ Skinner.lnk</Filename>
+<Filename>C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\\Army Men RTS\Extras\\Army Men RTS ModRemover.lnk</Filename>
 <Filename>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Army Men RTS\Uninstall Army Men RTS.lnk</Filename>
 </UninstallShortcuts>
+<UninstallSupportFiles>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\uninstall\IRIMG1.JPG</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\uninstall\IRIMG2.JPG</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\uninstall\IRIMG3.JPG</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\uninstall\IRIMG4.JPG</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\uninstall\IRIMG5.JPG</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\uninstall\IRIMG6.JPG</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\uninstall\IRIMG7.JPG</Filename>
+<Filename>C:\Program Files (x86)\3DO\Army Men RTS\uninstall\IRIMG8.JPG</Filename>
+</UninstallSupportFiles>
 <UninstallFolders>
-<FolderPath>E:\Program Files (x86)\3DO\Army Men RTS</FolderPath>
-<FolderPath>E:\Program Files (x86)\3DO\Army Men RTS\uninstall</FolderPath>
-<FolderPath>E:\Program Files (x86)\3DO\Army Men RTS\missions</FolderPath>
-<FolderPath>E:\Program Files (x86)\3DO\Army Men RTS\missions\bc_p</FolderPath>
-<FolderPath>E:\Program Files (x86)\3DO\Army Men RTS\missions\gb</FolderPath>
-<FolderPath>E:\Program Files (x86)\3DO\Army Men RTS\missions\mp</FolderPath>
-<FolderPath>E:\Program Files (x86)\3DO\Army Men RTS\missions\shells</FolderPath>
-<FolderPath>E:\Program Files (x86)\3DO\Army Men RTS\missions\story</FolderPath>
-<FolderPath>E:\Program Files (x86)\3DO\Army Men RTS\mods</FolderPath>
-<FolderPath>E:\Program Files (x86)\3DO\Army Men RTS\mods\persona</FolderPath>
-<FolderPath>E:\Program Files (x86)\3DO\Army Men RTS\mods\ruleset</FolderPath>
-<FolderPath>E:\Program Files (x86)\3DO\Army Men RTS\sides</FolderPath>
-<FolderPath>E:\Program Files (x86)\3DO\Army Men RTS\user</FolderPath>
-<FolderPath>E:\Program Files (x86)\3DO\Army Men RTS\worlds</FolderPath>
-<FolderPath>E:\Program Files (x86)\3DO\Army Men RTS\client</FolderPath>
-<FolderPath>E:\Program Files (x86)\3DO\Army Men RTS\client\p</FolderPath>
-<FolderPath>E:\Program Files (x86)\3DO\Army Men RTS\library</FolderPath>
-<FolderPath>E:\Program Files (x86)\3DO\Army Men RTS\library\dbg</FolderPath>
-<FolderPath>E:\Program Files (x86)\3DO\Army Men RTS\library\engine</FolderPath>
-<FolderPath>E:\Program Files (x86)\3DO\Army Men RTS\library\language</FolderPath>
-<FolderPath>E:\Program Files (x86)\3DO\Army Men RTS\library\mss</FolderPath>
-<FolderPath>E:\Program Files (x86)\3DO\Army Men RTS\extras</FolderPath>
+<FolderPath>C:\Program Files (x86)\3DO</FolderPath>
+<FolderPath>C:\Program Files (x86)\3DO\Army Men RTS</FolderPath>
+<FolderPath>C:\Program Files (x86)\3DO\Army Men RTS\uninstall</FolderPath>
+<FolderPath>C:\Program Files (x86)\3DO\Army Men RTS\missions</FolderPath>
+<FolderPath>C:\Program Files (x86)\3DO\Army Men RTS\missions\bc_p</FolderPath>
+<FolderPath>C:\Program Files (x86)\3DO\Army Men RTS\missions\gb</FolderPath>
+<FolderPath>C:\Program Files (x86)\3DO\Army Men RTS\missions\mp</FolderPath>
+<FolderPath>C:\Program Files (x86)\3DO\Army Men RTS\missions\shells</FolderPath>
+<FolderPath>C:\Program Files (x86)\3DO\Army Men RTS\missions\story</FolderPath>
+<FolderPath>C:\Program Files (x86)\3DO\Army Men RTS\mods</FolderPath>
+<FolderPath>C:\Program Files (x86)\3DO\Army Men RTS\mods\persona</FolderPath>
+<FolderPath>C:\Program Files (x86)\3DO\Army Men RTS\mods\ruleset</FolderPath>
+<FolderPath>C:\Program Files (x86)\3DO\Army Men RTS\sides</FolderPath>
+<FolderPath>C:\Program Files (x86)\3DO\Army Men RTS\user</FolderPath>
+<FolderPath>C:\Program Files (x86)\3DO\Army Men RTS\worlds</FolderPath>
+<FolderPath>C:\Program Files (x86)\3DO\Army Men RTS\client</FolderPath>
+<FolderPath>C:\Program Files (x86)\3DO\Army Men RTS\client\p</FolderPath>
+<FolderPath>C:\Program Files (x86)\3DO\Army Men RTS\library</FolderPath>
+<FolderPath>C:\Program Files (x86)\3DO\Army Men RTS\library\dbg</FolderPath>
+<FolderPath>C:\Program Files (x86)\3DO\Army Men RTS\library\engine</FolderPath>
+<FolderPath>C:\Program Files (x86)\3DO\Army Men RTS\library\language</FolderPath>
+<FolderPath>C:\Program Files (x86)\3DO\Army Men RTS\library\mss</FolderPath>
+<FolderPath>C:\Program Files (x86)\3DO\Army Men RTS\extras</FolderPath>
+<FolderPath>C:\Users\Administrator\AppData\Roaming\AMU</FolderPath>
+<FolderPath>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Army Men RTS</FolderPath>
+<FolderPath>C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\\Army Men RTS</FolderPath>
+<FolderPath>C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\\Army Men RTS\Extras</FolderPath>
+<FolderPath>C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\\Army Men RTS\Map Updater</FolderPath>
 </UninstallFolders>
 <SessionVars>
 <Var>
@@ -1138,7 +1161,7 @@
 </Var>
 <Var>
 <Name>%AppFolder%</Name>
-<Value>E:\Program Files (x86)\3DO\Army Men RTS</Value>
+<Value>C:\Program Files (x86)\3DO\Army Men RTS</Value>
 </Var>
 <Var>
 <Name>%AppShortcutFolderName%</Name>
@@ -1178,7 +1201,7 @@
 </Var>
 <Var>
 <Name>%ApplicationDataFolder%</Name>
-<Value>C:\Users\Asuck\AppData\Roaming</Value>
+<Value>C:\Users\Administrator\AppData\Roaming</Value>
 </Var>
 <Var>
 <Name>%ApplicationDataFolderCommon%</Name>
@@ -1186,7 +1209,7 @@
 </Var>
 <Var>
 <Name>%DesktopFolder%</Name>
-<Value>C:\Users\Asuck\Desktop</Value>
+<Value>C:\Users\Administrator\Desktop</Value>
 </Var>
 <Var>
 <Name>%DesktopFolderCommon%</Name>
@@ -1198,11 +1221,11 @@
 </Var>
 <Var>
 <Name>%MyDocumentsFolder%</Name>
-<Value>E:\Users\Asuck\Documents</Value>
+<Value>C:\Users\Administrator\Documents</Value>
 </Var>
 <Var>
 <Name>%StartFolder%</Name>
-<Value>C:\Users\Asuck\AppData\Roaming\Microsoft\Windows\Start Menu</Value>
+<Value>C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu</Value>
 </Var>
 <Var>
 <Name>%StartFolderCommon%</Name>
@@ -1210,7 +1233,7 @@
 </Var>
 <Var>
 <Name>%StartProgramsFolder%</Name>
-<Value>C:\Users\Asuck\AppData\Roaming\Microsoft\Windows\Start Menu\Programs</Value>
+<Value>C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs</Value>
 </Var>
 <Var>
 <Name>%StartProgramsFolderCommon%</Name>
@@ -1218,7 +1241,7 @@
 </Var>
 <Var>
 <Name>%StartupFolder%</Name>
-<Value>C:\Users\Asuck\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup</Value>
+<Value>C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup</Value>
 </Var>
 <Var>
 <Name>%StartupFolderCommon%</Name>
@@ -1230,7 +1253,7 @@
 </Var>
 <Var>
 <Name>%MyMusicFolder%</Name>
-<Value>E:\Users\Asuck\Music</Value>
+<Value>C:\Users\Administrator\Music</Value>
 </Var>
 <Var>
 <Name>%MyMusicFolderCommon%</Name>
@@ -1238,7 +1261,7 @@
 </Var>
 <Var>
 <Name>%MyPicturesFolder%</Name>
-<Value>E:\Users\Asuck\Pictures</Value>
+<Value>C:\Users\Administrator\Pictures</Value>
 </Var>
 <Var>
 <Name>%MyPicturesFolderCommon%</Name>
@@ -1246,7 +1269,7 @@
 </Var>
 <Var>
 <Name>%MyVideosFolder%</Name>
-<Value>E:\Users\Asuck\Videos</Value>
+<Value>C:\Users\Administrator\Videos</Value>
 </Var>
 <Var>
 <Name>%MyVideosFolderCommon%</Name>
@@ -1270,11 +1293,11 @@
 </Var>
 <Var>
 <Name>%SystemFolder%</Name>
-<Value>C:\Windows\system32</Value>
+<Value>C:\WINDOWS\system32</Value>
 </Var>
 <Var>
 <Name>%WindowsFolder%</Name>
-<Value>C:\Windows</Value>
+<Value>C:\WINDOWS</Value>
 </Var>
 <Var>
 <Name>%SystemDrive%</Name>
@@ -1282,15 +1305,15 @@
 </Var>
 <Var>
 <Name>%TempFolder%</Name>
-<Value>C:\Users\Asuck\AppData\Local\Temp</Value>
+<Value>C:\Users\ADMINI~1\AppData\Local\Temp</Value>
 </Var>
 <Var>
 <Name>%TempLaunchFolder%</Name>
-<Value>C:\Users\Asuck\AppData\Local\Temp\_ir_sf_temp_0</Value>
+<Value>C:\Users\ADMINI~1\AppData\Local\Temp\_ir_sf_temp_0</Value>
 </Var>
 <Var>
 <Name>%RegOwner%</Name>
-<Value>Asuck</Value>
+<Value>Admin</Value>
 </Var>
 <Var>
 <Name>%RegOrganization%</Name>
@@ -1298,7 +1321,7 @@
 </Var>
 <Var>
 <Name>%AppDrive%</Name>
-<Value>E:</Value>
+<Value>C:</Value>
 </Var>
 <Var>
 <Name>%DAOPath%</Name>
@@ -1306,59 +1329,59 @@
 </Var>
 <Var>
 <Name>%LaunchUserName%</Name>
-<Value>Asuck</Value>
+<Value>Administrator</Value>
 </Var>
 <Var>
 <Name>%LaunchUserDomain%</Name>
-<Value>DESKTOP-JFTB5DB</Value>
+<Value>ADMIN</Value>
 </Var>
 <Var>
 <Name>%LaunchUserApplicationDataFolder%</Name>
-<Value>C:\Users\Asuck\AppData\Roaming</Value>
+<Value>C:\Users\Administrator\AppData\Roaming</Value>
 </Var>
 <Var>
 <Name>%LaunchUserDesktopFolder%</Name>
-<Value>C:\Users\Asuck\Desktop</Value>
+<Value>C:\Users\Administrator\Desktop</Value>
 </Var>
 <Var>
 <Name>%LaunchUserMyDocumentsFolder%</Name>
-<Value>E:\Users\Asuck\Documents</Value>
+<Value>C:\Users\Administrator\Documents</Value>
 </Var>
 <Var>
 <Name>%LaunchUserStartProgramsFolder%</Name>
-<Value>C:\Users\Asuck\AppData\Roaming\Microsoft\Windows\Start Menu\Programs</Value>
+<Value>C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs</Value>
 </Var>
 <Var>
 <Name>%LaunchUserStartFolder%</Name>
-<Value>C:\Users\Asuck\AppData\Roaming\Microsoft\Windows\Start Menu</Value>
+<Value>C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu</Value>
 </Var>
 <Var>
 <Name>%LaunchUserStartupFolder%</Name>
-<Value>C:\Users\Asuck\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup</Value>
+<Value>C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup</Value>
 </Var>
 <Var>
 <Name>%LaunchUserMyMusicFolder%</Name>
-<Value>E:\Users\Asuck\Music</Value>
+<Value>C:\Users\Administrator\Music</Value>
 </Var>
 <Var>
 <Name>%LaunchUserMyPicturesFolder%</Name>
-<Value>E:\Users\Asuck\Pictures</Value>
+<Value>C:\Users\Administrator\Pictures</Value>
 </Var>
 <Var>
 <Name>%LaunchUserMyVideosFolder%</Name>
-<Value>E:\Users\Asuck\Videos</Value>
+<Value>C:\Users\Administrator\Videos</Value>
 </Var>
 <Var>
 <Name>%SourceFilename%</Name>
-<Value>E:\Resource\DataStore\ArmyMenRTS_SETUP203.exe</Value>
+<Value>C:\Users\Administrator\Downloads\Programs\ArmyMenRTS_SETUP203.exe</Value>
 </Var>
 <Var>
 <Name>%SourceFolder%</Name>
-<Value>E:\Resource\DataStore</Value>
+<Value>C:\Users\Administrator\Downloads\Programs</Value>
 </Var>
 <Var>
 <Name>%SourceDrive%</Name>
-<Value>E:</Value>
+<Value>C:</Value>
 </Var>
 <Var>
 <Name>%ServerVersion%</Name>
@@ -1370,7 +1393,7 @@
 </Var>
 <Var>
 <Name>%SpaceAvailable%</Name>
-<Value>80.18 GB</Value>
+<Value>52.73 GB</Value>
 </Var>
 <Var>
 <Name>%SpaceRequired%</Name>
